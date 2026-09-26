@@ -222,3 +222,4 @@ __marimo__/
 # Data Files
 data/*
 !data/.gitkeep
+!data/README.md
